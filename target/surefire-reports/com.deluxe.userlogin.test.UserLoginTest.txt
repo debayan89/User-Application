@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.deluxe.userlogin.test.UserLoginTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.003 sec <<< FAILURE! - in com.deluxe.userlogin.test.UserLoginTest
+test(com.deluxe.userlogin.test.UserLoginTest)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at org.junit.Assert.fail(Assert.java:88)
+	at com.deluxe.userlogin.test.UserLoginTest.test(UserLoginTest.java:20)
+

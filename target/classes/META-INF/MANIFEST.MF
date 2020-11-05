@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: PAULD26
+Build-Jdk: 1.8.0_251
+Implementation-Title: deluxeUserLoginApplication
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: io.swagger
+Implementation-Vendor: Pivotal Software, Inc.
+Created-By: Maven Integration for Eclipse
+

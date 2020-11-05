@@ -1,0 +1,8 @@
+com\deluxe\userlogin\api\UserApiController.class
+com\deluxe\userlogin\UserLoginMainApplication.class
+com\deluxe\userlogin\api\UserApi.class
+com\deluxe\userlogin\model\User.class
+com\deluxe\userlogin\model\Token.class
+com\deluxe\userlogin\UserLoginMainApplication$ExitException.class
+com\deluxe\userlogin\configuration\SwaggerDocumentationConfig.class
+com\deluxe\userlogin\jwt\JwtEncoder.class
